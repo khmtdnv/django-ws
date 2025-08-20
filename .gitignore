@@ -1,0 +1,12 @@
+venv/
+.pylintrc
+__pyacache__/
+
+.vscode
+.idea
+.env
+
+db.sqlite3
+media/
+codewars/
+leetcode/
