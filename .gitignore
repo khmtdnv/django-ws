@@ -8,5 +8,4 @@ __pyacache__/
 
 db.sqlite3
 media/
-codewars/
-leetcode/
+products/
