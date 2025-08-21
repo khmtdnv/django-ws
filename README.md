@@ -1,4 +1,4 @@
-# Интернет-магазин
+# Интернет-магазин на Django
 
 ## Запуск проекта на Linux
 1. sudo apt install -y python3-venv 
